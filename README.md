@@ -5,3 +5,4 @@
 3. [weather_master]: python semantics & syntax
 4. [breakout_game]: animation & game design
 5. [removing_application]: photo processing
+6. [webcrawler]: web crawler
